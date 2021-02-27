@@ -6,3 +6,6 @@ p{
 body{
   background-color: rgb(123, 123, 228);
 }
+h1{
+  font-style: italic;
+}
