@@ -1,10 +1,11 @@
 p{
   color: black;
   font-style: monospace;
-  font-weight: 800;
+  font-weight: 500;
 }
 body{
-  background-color:rgb(126, 240, 228)
+  background-color:#41f7e4;
+  font-size: 18px;
 }
 h1{
   font-style: italic;
