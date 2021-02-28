@@ -2,6 +2,7 @@ p{
   color: black;
   font-style: monospace;
   font-weight: 500;
+  text-align: unset;
 }
 body{
   background-color:#41f7e4;
@@ -9,4 +10,17 @@ body{
 }
 h1{
   font-style: italic;
+}
+strong{
+  font-style: oblique;
+}
+img{
+  padding: 10px;
+}
+a:hover{
+  color: red;
+}
+.images{
+  display: block;
+  margin-right: auto;
 }
