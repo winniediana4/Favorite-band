@@ -3,6 +3,8 @@ p{
   font-style: monospace;
   font-weight: 500;
   text-align: unset;
+  width: 1000px;
+  height: fit-content;
 }
 body{
   background-color:#41f7e4;
@@ -16,6 +18,7 @@ strong{
 }
 img{
   padding: 10px;
+  float:right
 }
 a:hover{
   color: red;
